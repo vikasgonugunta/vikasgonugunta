@@ -17,7 +17,7 @@ I’m passionate about leveraging automation and cloud technologies to streamlin
 ---
 
 # 💫 About Me:
-Cognizant Technology Solutions
+DevOps Engineer | Cognizant Technology Solutions
 
 
 ## 🌐 Socials:
