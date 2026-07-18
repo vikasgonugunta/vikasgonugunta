@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github.com/Haripalepu/Haripalepu/blob/main/git_banner.png" alt="GitHub Banner" width="800"/>
+</div>
 
-<!--
-**vikasgonugunta/vikasgonugunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohan Vikas Gonugunta
 
-Here are some ideas to get you started:
+### DevOps Engineer @ Cognizant Technology Solutions 
+DevOps Engineer | AWS | CI/CD | Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/mohanvikasgonugunta/)
+
+
+## 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+Thanks for visiting!
